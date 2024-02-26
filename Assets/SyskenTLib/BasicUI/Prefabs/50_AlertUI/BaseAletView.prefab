@@ -200,7 +200,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _targetRectTransform: {fileID: 5083976434495083476}
-  _sizeRatio: 0.3
+  _sizeRatio: 0.7
 --- !u!95 &2639305439380124156
 Animator:
   serializedVersion: 5
