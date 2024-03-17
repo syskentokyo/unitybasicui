@@ -15,8 +15,6 @@ namespace SyskenTLib.BasicUI
         
         void Start()
         {
-            Debug.Log(_targetRectTransform.rect.size);
-            
             
             if (Screen.width > Screen.height)
             {
